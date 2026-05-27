@@ -1,6 +1,6 @@
 # State Management
 
-> **Aloha Casino — btr** · Redux Toolkit · RTK Query · Redux Observable · RxJS
+> **Svelme** · Redux Toolkit · RTK Query · Redux Observable · RxJS
 
 ---
 
