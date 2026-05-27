@@ -1,6 +1,6 @@
 # Data Fetching Strategies
 
-> **Aloha Casino — btr** · RTK Query · Redux Observable · Axios · WebSocket · RxJS
+> **Svelme** · RTK Query · Redux Observable · Axios · WebSocket · RxJS
 
 ---
 
